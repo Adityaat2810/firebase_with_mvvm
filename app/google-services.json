@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52805358371",
+    "project_id": "notesmvvm-10b90",
+    "storage_bucket": "notesmvvm-10b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52805358371:android:4fbf9e1aa6706cfbf47296",
+        "android_client_info": {
+          "package_name": "com.example.firebase_with_mvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcywbIbETrU7o3EsYecR5NRCZnEy5R-1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
